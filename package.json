@@ -24,7 +24,7 @@
     "gatsby-plugin-manifest": "2.12.1",
     "gatsby-plugin-netlify": "2.11.1",
     "gatsby-plugin-offline": "3.10.2",
-    "gatsby-plugin-webpack-bundle-analyser-v2": "1.1.20",
+    "gatsby-plugin-webpack-bundle-analyser-v2": "1.1.32",
 
 
     "react": "16.14.0",
